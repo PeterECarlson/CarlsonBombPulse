@@ -1,0 +1,64 @@
+﻿ASFA3		Rukiessa, Ethiopia
+		Baker A., Asrat A., Fairchild I.J., Leng M.J., Wynn P.M., Bryant C.L., Genty D., Umer M. 2007. Analysis of the climate signal contained within δ18O and growth rate parameters in two Ethiopian stalagmites. Geochim. Cosmochim. Acta, 71(12): 2975-2988.
+
+CCBIL		Crag, Ireland
+		Rudzka-Phillips D., McDermott F., Jackson A., Fleitmann D. 2013. Inverse modelling of the 14C bomb pulse in stalagmites to constrain the dynamics of soil carbon cycling at selected European cave sites. Geochim. Cosmochim. Acta, 112: 32-51.
+
+ER77		Grotta di Ernesto, Italy
+		Fohlmeister J., Kromer B., Mangini A. 2011. The influence of soil organic matter age spectrum on the reconstruction of atmospheric 14C levels via stalagmites. Radiocarbon, 53 (1): 99-115.
+
+FAUSTM14	La Faurie, France
+		Genty D. and Massault M. 1999. Carbon transfer dynamics from bomb-14C and δ13C  time series of a laminated stalagmite from SW-France - Modelling and comparison with other stalagmite, Geochimica et Cosmochimica Acta 63: 1537-1548.
+
+GAR02		La Garma, Spain
+		Rudzka-Phillips D., McDermott F., Jackson A., Fleitmann D. 2013. Inverse modelling of the 14C bomb pulse in stalagmites to constrain the dynamics of soil carbon cycling at selected European cave sites. Geochim. Cosmochim. Acta, 112: 32-51.
+
+GIB04A-Cycle	New St. Michaels Cave, Gibraltar
+GIB04A-14C	Mattey, D., Lowry, D., Duffet, J., Fisher, R., Hodge, E., Frisia, S., 2008. A 53 year seasonally resolved oxygen and carbon isotope record from a modern Gibraltar speleothem: Reconstructed drip water and relationship to local precipitation. Earth Planet. Sc. Lett. 269, 80-95.
+
+HANSTM5		Han-sur-Lesse, Belgium
+
+HS4		Heshang, China
+		Noronha A.L., Johnson K.R., Southon J.R., Hu C., Ruan J., and McCabe-Glynn S. 2015. Radiocarbon Evidence for Decomposition of Aged Organic Matter in the Vadose Zone as the Main Source of Speleothem Carbon, Quaternary Science Reviews. 127:37-47.
+
+LR06B1		Liang Luar, Indonesia
+		Griffiths M., Fohlmeister J., Drysdale R., Hua Q., Johnson K.R., Hellstrom J., Gagan M., Zhao J.-X. 2012. Hydrological control of the dead carbon fraction in a Holocene tropical speleothem. Quat. Geochronol., 14: 81-93.
+
+MERC1		Rukiessa, Ethiopia
+		Baker A., Asrat A., Fairchild I.J., Leng M.J., Wynn P.M., Bryant C.L., Genty D., Umer M. 2007. Analysis of the climate signal contained within δ18O and growth rate parameters in two Ethiopian stalagmites. Geochim. Cosmochim. Acta, 71(12): 2975-2988.
+
+MOD27	 	Modric, Croatia
+MOD27-corrected	Rudzka-Phillips D., McDermott F., Jackson A., Fleitmann D. 2013. Inverse modelling of the 14C bomb pulse in stalagmites to constrain the dynamics of soil carbon cycling at selected European cave sites. Geochim. Cosmochim. Acta, 112: 32-51.
+
+NU1		Baradla Cave, Hungary
+		Demény A., Németh A., Kern Z., Czuppon G., Molnár M., Leél-Őssy S., Óvári M., Stieber J. 2017. Recently forming stalagmites from the Baradla Cave and their suitability assessment for climate–proxy relationships. Central European Geology 60(1): 1-34.
+
+NU2		Baradla Cave, Hungary
+		Demény A., Németh A., Kern Z., Czuppon G., Molnár M., Leél-Őssy S., Óvári M., Stieber J. 2017. Recently forming stalagmites from the Baradla Cave and their suitability assessment for climate–proxy relationships. Central European Geology 60(1): 1-34.
+
+OBI84		Obir, Austria
+		Smith C.L., Fairchild I.J., Spötl C., Frisia S., Borsato A., Moreton S.G., Wynn P.M. 2009. Chronology building using objective identification of annual signals in trace element profiles of stalagmites. Quat. Geochronol. 4(1): 11-21
+
+POSSTM4 	Postojna, Slovenia
+		Genty D., Vokal B., Obelić B. 1998. Bomb 14C time history recorded in two modern stalagmites – importance for soil organic matter dynamics and bomb 14C distribution over continents. Earth Planet. Sci. Lett., 160: 795-809.
+
+SO11		Sofular, Turkey
+		Rudzka-Phillips D., McDermott F., Jackson A., Fleitmann D. 2013. Inverse modelling of the 14C bomb pulse in stalagmites to constrain the dynamics of soil carbon cycling at selected European cave sites. Geochim. Cosmochim. Acta, 112: 32-51.
+
+T7		Cold Air, South Africa
+		Sundqvist H.S., Holmgren K., Fohlmeister J., Zhang Q., Matthews M.B., Spötl C., Körnich H. 2013. Evidence of a large cooling between 1690 and 1740 AD in southern Africa. Sci. Rep., 3: 1767.
+
+VK1		Baradla Cave, Hungary
+		Demény A., Németh A., Kern Z., Czuppon G., Molnár M., Leél-Őssy S., Óvári M., Stieber J. 2017. Recently forming stalagmites from the Baradla Cave and their suitability assessment for climate–proxy relationships. Central European Geology 60(1): 1-34.
+
+VK2		Baradla Cave, Hungary
+		Demény A., Németh A., Kern Z., Czuppon G., Molnár M., Leél-Őssy S., Óvári M., Stieber J. 2017. Recently forming stalagmites from the Baradla Cave and their suitability assessment for climate–proxy relationships. Central European Geology 60(1): 1-34.
+
+WC3		Westcave, Texas
+		Carlson P.E., Miller N.R., Banner J.L., Breecker D.O., and Casteel R.C. 2018. Sub-annually resolved speleothem chronology in a near-entrance cave setting using oxygen isotope and trace element variations driven by temperature seasonality. Geochim. Cosmochim. Acta. 235: 55-75.
+
+YOKG		Yok Balum Cave, Belize
+		Lechleitner F.A., Baldini J.U.L., Breitenbach S.F.M., Fohlmeister J., McIntyre C., Goswami B., Jamieson R.A., van der Voort T.S., Prufer K., Marwan N., Culleton B.J., Kennett D.J., Asmerom Y., Polyak V., Eglinton T.I. 2016. Hydrological and climatological controls on radiocarbon concentrations in a tropical stalagmite. Geochimica et Cosmochimica Acta 194: 233-252.
+
+YOKI		Yok Balum Cave, Belize
+		Lechleitner F.A., Baldini J.U.L., Breitenbach S.F.M., Fohlmeister J., McIntyre C., Goswami B., Jamieson R.A., van der Voort T.S., Prufer K., Marwan N., Culleton B.J., Kennett D.J., Asmerom Y., Polyak V., Eglinton T.I. 2016. Hydrological and climatological controls on radiocarbon concentrations in a tropical stalagmite. Geochimica et Cosmochimica Acta 194: 233-252.
